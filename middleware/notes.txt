@@ -11,3 +11,17 @@ Running a Middleware
 Query parameter and params-
 np
           
+
+          for st 2
+          
+          // data should be in file no sql
+
+
+
+
+
+
+
+
+find 1 - single document ko find krke lata
+find- sare docs ko find krke lata
