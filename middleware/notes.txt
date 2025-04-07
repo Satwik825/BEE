@@ -1,7 +1,7 @@
 Middleware-
 def- middle ware is a function which runs between request and response . It has access to request and response object.(there are 3 arguments- request, response, next)
 Running a Middleware
-1- at application lever
+1- at application level
           app.use([middleware-name])
           to sent request  from one middleware to another, use 'next' argument.
     note- 1-if we run a middleware at application level, then it will run on every request 
